@@ -1,0 +1,51 @@
+---
+title: "UMB ISPOR Student Chpater"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# International Society for Pharmacoeconomics and Outcomes Research
+
+# University of Maryland Student Chapter
+
+The International Society for Pharmacoeconomics and Outcomes Research's (ISPOR) mission is to promote health economics and outcomes research excellence to improve decision making for health globally.
+
+## What is ISPOR?
+
+The International Society for Pharmacoeconomics and Outcomes Research is the leading professional society for health economics and outcomes research (HEOR) globally. Founded in 1995, the Society's mission is to promote HEOR excellence to improve decision making for health globally. With more than 20,000 individual and regional chapter members representing over 115 countries, ISPOR is the leading source for scientific conferences, peer-reviewed and MEDLINE-indexed publications, good practices guidance, education, collaboration, and tools/resources in the field.
+
+## ISPOR's Strategic Focus
+
+ISPOR focuses on 5 core pillars designed to improve the science, education, and global engagement of its members and the HEOR community.
+
+1.  Scientific and Research Excellence
+
+2.  Member Engagement
+
+3.  Education and Training
+
+4.  Communication and Collaboration
+
+5.  Organizational Values
+
+# Newsletter
+
+[Latest Issue](https://us21.campaign-archive.com/home/?u=07e19669d1799f30f0d96d8cd&id=3eb9f43469)
+
+[Subscribe Here](https://mailchi.mp/21d3bd3376a7/subscribe-umb-ispor)
+
+# Upcoming event
+
+# Past Events
+
+# 2023-2024 Executive Board
+
+President
+
+# Students Network Chapter Award
+
+
+# Student Achievements and Publications
