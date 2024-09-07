@@ -5,9 +5,16 @@ output: html_document
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+library(knitr)
+library(stringr)
 ```
 
 # International Society for Pharmacoeconomics and Outcomes Research
+
+```{r}
+table <- read.csv(str_c(getwd(),"/output.csv"))
+paged_table(table)
+```
 
 # University of Maryland Student Chapter
 
@@ -46,6 +53,5 @@ ISPOR focuses on 5 core pillars designed to improve the science, education, and 
 President
 
 # Students Network Chapter Award
-
 
 # Student Achievements and Publications
