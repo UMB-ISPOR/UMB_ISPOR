@@ -304,7 +304,7 @@ Never miss out on our latest events! [**Subscribe**](https://mailchi.mp/21d3bd33
 datatable(UMB_ISPOR_Awards)
 ```
 
-## Students Publications
+## Student Publications
 
 ```{r}
 datatable(UMB_ISPOR_Publications)
