@@ -26,7 +26,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: https://umb-ispor.github.io/UMB_ISPOR/
+      url: /docs/index.html
       # ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
