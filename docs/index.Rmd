@@ -147,6 +147,8 @@ div.desc {
 
 ```
 
+![](files/logo.png){width="100%"}
+
 # ISPOR and ISPOR Student Network
 
 ## What is ISPOR
