@@ -1,4 +1,4 @@
-# Simple workflow for deploying static content to GitHub Pages
+# Simple workflow for deploying static content (including Git LFS) to GitHub Pages
 name: Deploy static content to Pages
 
 on:
@@ -31,9 +31,20 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          # Ensure LFS files are fetched
+          lfs: true
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
+
+      - name: Install Git LFS
+        run: |
+          sudo apt-get install git-lfs
+          git lfs install
+
+      - name: Pull Git LFS files
+        run: git lfs pull
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
