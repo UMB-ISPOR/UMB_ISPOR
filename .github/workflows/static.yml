@@ -1,3 +1,9 @@
+# Upload artifact
+uses: actions/upload-pages-artifact@v3
+with:
+  # Upload the docs directory only
+  path: './docs'
+
 # Simple workflow for deploying static content to GitHub Pages
 name: Deploy static content to Pages
 
