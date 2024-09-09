@@ -177,7 +177,8 @@ The ISPOR Student Network also provides for leadership opportunities in the form
 
 ## Who are we?
 
-![](headshot/group.jpg){width="100%"} INSERT TEXT. INSERT TEXT. INSERT TEXT. INSERT TEXT. INSERT TEXT. INSERT TEXT. INSERT TEXT. INSERT TEXT. INSERT TEXT. INSERT TEXT. INSERT TEXT. INSERT TEXT. INSERT TEXT. INSERT TEXT. INSERT TEXT. INSERT TEXT. INSERT TEXT.
+![](headshot/group.jpg){width="100%"} 
+The UMB ISPOR Student Chapter at the University of Maryland, Baltimore (UMB) is a vibrant and dynamic community of graduate and PharmD students united by a shared passion for HEOR. As part of the global ISPOR Student Network, our chapter organizes a wide range of initiatives, including educational seminars, journal clubs, webinars, networking events, and volunteer activities, aimed at fostering interdisciplinary collaboration and leadership. With a strong tradition of excellence, our chapter has been consistently recognized as a Best Student Chapter, and several of our executive board members have earned accolades for distinguished leadership. We welcome students from all UMB schools who are passionate about contributing to the HEOR field and enhancing their professional trajectory.
 
 ## What do we do?
 
@@ -262,7 +263,7 @@ Never miss out on our latest events! [**Subscribe**](https://mailchi.mp/21d3bd33
   <tr>
   <tr>
     <td class="col1">![](headshot/president%20elect.jpeg){width="100%"} </td>
-    <td class="col2"> **President-elect**| Hyung-Seok (John) Kim </br> Hello, you can call me John! I'm a 2nd year PhD student in the pharmacoeconomics track broadly interested in modeling and value assessment, especially in the realm of Alzheimer's disease. I've lived in Seoul, Singapore, Indonesia, and the US and can say without a doubt, that Indonesian food reigns supreme. I love lifting weights, playing the violin, and have a healthy but not so healthy obsession with karaoke. It's an absolute pleasure connecting with other peers in HEOR. and I can't wait to deepen my and our chapter's relationships with all of you reading this! 
+    <td class="col2"> **President-elect** | Hyung-Seok (John) Kim </br> Hello, you can call me John! I'm a 2nd year PhD student in the pharmacoeconomics track broadly interested in modeling and value assessment, especially in the realm of Alzheimer's disease. I've lived in Seoul, Singapore, Indonesia, and the US and can say without a doubt, that Indonesian food reigns supreme. I love lifting weights, playing the violin, and have a healthy but not so healthy obsession with karaoke. It's an absolute pleasure connecting with other peers in HEOR. and I can't wait to deepen my and our chapter's relationships with all of you reading this! 
     </td>
     </tr>
   <tr>
