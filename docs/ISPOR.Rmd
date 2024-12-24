@@ -1,0 +1,39 @@
+---
+title: "ISPOR and ISPOR Student Network"
+navbar:
+output:
+  html_document:
+    css: style.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+
+```
+
+![](files/logo.png){width="100%"}
+
+# What is ISPOR
+
+The **International Society for Pharmacoeconomics and Outcomes Research** is the leading professional society for **health economics and outcomes research (HEOR)** globally.
+
+Founded in 1995, the Society's mission is to promote HEOR excellence to improve decision making for health globally. With more than 20,000 individual and regional chapter members representing over 115 countries, ISPOR is the leading source for scientific conferences, peer-reviewed and MEDLINE-indexed publications, good practices guidance, education, collaboration, and tools/resources in the field.
+
+ISPOR focuses on 5 core pillars designed to improve the science, education, and global engagement of its members and the HEOR community.
+
+1.  Scientific and Research Excellence
+2.  Member Engagement
+3.  Education and Training
+4.  Communication and Collaboration
+5.  Organizational Values
+
+# ISPOR Student Network
+
+All ISPOR members who are students belong to the Student Network---an engaged collection of PhD, masters, PharmD, and other HEOR-related disciplines. With 1000+ individual members and 2000 chapter members from around the world, the Student Network represents more than 70 countries.
+
+The Network's students are united by similar interests and passion for excellence in research. Most student members belong to a local chapter based at, or near, their university. Currently there are more than 140 ISPOR Student Chapters representing 30+ countries.
+
+The ISPOR Student Network also provides for leadership opportunities in the form of volunteer roles: student network chair, 4 student committees, 3 regional leads, and the student internship/fellowship subcommittee of the Faculty Advisor Council's Professional Development Focus Group.
+
+

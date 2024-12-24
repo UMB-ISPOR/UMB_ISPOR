@@ -1,0 +1,20 @@
+navbar:
+  title: "UMB ISPOR Student Chpater"
+  left:
+    - text: "ISPOR Student Network"
+      href: ISPOR.html
+    - text: "About us"
+      href: index.html
+    - text: "Our team"
+      href: team.html
+    - text: "Student Achievements and Publications"
+      href: table.html
+    - text: "Gallery"
+      href: gallery.html
+  right:
+    - text: "Follow us"
+      href: follow.html
+      
+output:
+  html_document:
+    css: style.css

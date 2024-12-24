@@ -1,0 +1,36 @@
+---
+title: "Follow us"
+navbar:
+output: 
+  html_document: 
+    css: style.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+# Subscribe our newsletter
+
+Never miss out on our latest events! [**Subscribe**](https://mailchi.mp/21d3bd3376a7/subscribe-umb-ispor) to our notifications and be the first to know whenever we're hosting something exciting. Whether it's workshops, webinars, or special gatherings, you'll always stay in the loop. Don't forget to subscribe here to receive regular updates and stay connected with everything happening in our community! Interested in what we've done in the past? Click [**here**](https://us21.campaign-archive.com/home/?u=07e19669d1799f30f0d96d8cd&id=3eb9f43469) to explore previous issues of our newsletter, packed with valuable insights and updates.
+
+<a href="https://us21.campaign-archive.com/home/?u=07e19669d1799f30f0d96d8cd&id=3eb9f43469"><button class="button">Past Issues</button></a> <a href="https://mailchi.mp/21d3bd3376a7/subscribe-umb-ispor"><button class="button">Subscribe Here</button></a>
+
+# Join our LinkedIn group
+This is your gateway to connect with a vibrant community of HEOR professionals, including both esteemed alumni and our current student body. 
+
+📝 Please note that all join requests will be carefully reviewed by our admin team to ensure a meaningful and secure networking environment. 
+
+As a member of our LinkedIn group, here's what you can look forward to:  
+💡 **Networking Events & Job Posting:** Connect with fellow students, faculty, and professionals in the field of HEOR.  
+💡 **Educational Workshops:** Enhance your knowledge and skills through workshops led by experts.  
+💡 **Research Opportunities:** Collaborate on projects that contribute to the advancement of healthcare policies and practices.  
+💡 **Community Service:** Give back to the community by participating in health-related volunteer activities.  
+
+We encourage you to get involved, share your ideas, and contribute to our community. Whether you're here to learn, network, or contribute to research, there's a place for you in our chapter.
+
+<a href="https://www.linkedin.com/groups/14360028/"><button class="button">Join Now</button></a> 
+
+# Contact us
+If you have any question, please contact us at umbispor@gmail.com

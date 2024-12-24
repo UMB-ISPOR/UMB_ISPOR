@@ -1,0 +1,67 @@
+---
+title: "Student Achievements and Publications"
+navbar:
+output: 
+  html_document: 
+    css: style.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+# Load necessary libraries
+library(readr)
+library(knitr)
+library(DT)
+library(dplyr)
+library(googlesheets4)
+
+# Read and display the CSV file as a table
+UMB_ISPOR_Awards <- read_csv("files/UMB_ISPOR_Awards.csv")
+UMB_ISPOR_Publications <- read_csv("files/UMB_ISPOR_Publications.csv")
+
+# Prepare ISPOR Presentation list
+# Authenticate with Google (this will open a browser for the first time)
+gs4_auth()
+
+# Replace the URL with the link to your Google Sheet
+sheet_url <- "https://docs.google.com/spreadsheets/d/1zEE23AcJEGOqL6qvhd-17jQMSaH0IKhHYKXVdbjoAtI/edit?usp=sharing"
+
+# Get the names of all sheets in the Google Sheet
+sheet_names <- sheet_names(sheet_url)
+
+# Initialize an empty list to store data frames
+data_list <- list()
+
+# Loop through each sheet, read data, and add a Year column
+for (sheet_name in sheet_names) {
+  sheet_data <- read_sheet(sheet_url, sheet = sheet_name)
+  sheet_data$Year <- (sheet_name)
+  data_list[[sheet_name]] <- sheet_data
+}
+
+# Combine all datasets into one
+df <- do.call(rbind, data_list)
+df <- 
+  df %>% 
+  select ("Year","Presenter","Author(s)/ Speaker(s)","Title","Type","Code") 
+```
+
+# Students Network Chapter Award
+
+```{r, echo=FALSE}
+datatable(UMB_ISPOR_Awards)
+```
+
+# Student Publications
+
+```{r, echo=FALSE}
+datatable(UMB_ISPOR_Publications)
+```
+
+# ISPOR Presentation
+
+```{r, echo=FALSE}
+datatable(df)
+```
+
