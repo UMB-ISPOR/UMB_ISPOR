@@ -1,4 +1,10 @@
-theme: jekyll-theme-minimal
-title: Your Blog's Title
-description: A short description of your blog.
-baseurl: "/UMB_ISPOR"
+title: UMB ISPOR Student Chapter
+description: News & events from the UMB ISPOR chapter
+theme: minima
+url: https://umb-ispor.github.io
+baseurl: /UMB_ISPOR
+
+# Optional niceties (all supported on GitHub Pages)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
