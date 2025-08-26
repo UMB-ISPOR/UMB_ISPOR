@@ -12,6 +12,14 @@
   install.packages(c("rmarkdown", "knitr"))
   ```
 
+## Before Updating .Rmd Files
+Please maintain:
+1. ISPOR Presentation List in Google Drive: https://docs.google.com/spreadsheets/d/1zEE23AcJEGOqL6qvhd-17jQMSaH0IKhHYKXVdbjoAtI/edit?usp=sharing 
+2. ISPOR Award tracking sheet in Google Drive: https://docs.google.com/spreadsheets/d/1GaMJ7NHEiSshsx2rNeE9Joz6fuHVNLQqoAduur7ovdc/edit?usp=sharing
+3. ISPOR Student Publication list on SharePoint by running:  
+   “Shared Documents - RX-SO-ISPOR/Website/ISPOR member pubmed query/ISPOR member pubmed query.R”  
+   and copy the output file **`UMB_ISPOR_Publications.csv`** to this GitHub repository.  
+
 ## 2. Update Content
 Edit the `.Rmd` files in the repo root:
 - `index.Rmd` → About page
@@ -62,6 +70,6 @@ Site is live at: <https://umb-ispor.github.io/UMB_ISPOR/>
 - [ ] Refresh photos in `gallery.Rmd` and `headshot/`.  
 - [ ] Update social links in `follow.Rmd`.  
 - [ ] Update About page (`index.Rmd`) if needed.  
-- [ ] Run `rmarkdown::render_site()` and preview locally.  
+- [ ] Run `source("Render all.R")` and preview locally.  
 - [ ] Commit + push changes.  
 - [ ] Verify site loads at <https://umb-ispor.github.io/UMB_ISPOR/>.  

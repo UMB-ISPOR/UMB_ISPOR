@@ -16,9 +16,6 @@ library(DT)
 library(dplyr)
 library(googlesheets4)
 
-# Read and display the CSV file as a table
-UMB_ISPOR_Awards <- read_csv("files/UMB_ISPOR_Awards.csv")
-UMB_ISPOR_Publications <- read_csv("files/UMB_ISPOR_Publications.csv")
 
 # Prepare ISPOR Presentation list
 # Authenticate with Google (this will open a browser for the first time)
@@ -46,6 +43,13 @@ df <- bind_rows(data_list) %>%
     Year,
     any_of(c("Presenter", "Author(s)/ Speaker(s)", "Title", "Type", "Code"))
   )
+
+# Awards tracking sheet from Google Drive
+UMB_ISPOR_Awards <- read_sheet('https://docs.google.com/spreadsheets/d/1GaMJ7NHEiSshsx2rNeE9Joz6fuHVNLQqoAduur7ovdc/edit?usp=sharing', sheet = 'Awards')
+
+# Read and display the CSV file as a table
+UMB_ISPOR_Publications <- read_csv("files/UMB_ISPOR_Publications.csv")
+
 ```
 
 # Students Network Chapter Award
