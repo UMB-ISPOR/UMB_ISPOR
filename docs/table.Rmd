@@ -41,10 +41,11 @@ for (sheet_name in sheet_names) {
 }
 
 # Combine all datasets into one
-df <- do.call(rbind, data_list)
-df <- 
-  df %>% 
-  select ("Year","Presenter","Author(s)/ Speaker(s)","Title","Type","Code") 
+df <- bind_rows(data_list) %>%
+  select(
+    Year,
+    any_of(c("Presenter", "Author(s)/ Speaker(s)", "Title", "Type", "Code"))
+  )
 ```
 
 # Students Network Chapter Award
