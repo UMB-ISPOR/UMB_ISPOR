@@ -3,3 +3,8 @@ description: News & events from the UMB ISPOR chapter
 theme: minima
 url: https://umb-ispor.github.io
 baseurl: /UMB_ISPOR
+
+# Optional niceties (all supported on GitHub Pages)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
