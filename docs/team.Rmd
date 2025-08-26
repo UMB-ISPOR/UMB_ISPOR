@@ -16,7 +16,7 @@ library(dplyr)
 
 ```
 
-# 2023-2024 Executive Board
+# 2024-2025 Executive Board
 
 <table class="custom-table">
   <tr>

@@ -146,7 +146,7 @@ div.desc {
 
 <div class="gallery">
   <a target="_blank" href="gallery/1.jpg"> <img src="gallery/1.jpg"> </a>
-  <div class="desc"> 2023-2024 E-board </div>
+  <div class="desc"> 2024-2025 E-board </div>
 </div>
 
 <div class="gallery">
@@ -156,7 +156,7 @@ div.desc {
 
 <div class="gallery">
   <a target="_blank" href="gallery/3.jpg"> <img src="gallery/3.jpg"> </a>
-  <div class="desc"> 2023 Fall Fest </div>
+  <div class="desc"> 2024 Fall Fest </div>
 </div>
 
 <div class="gallery">
@@ -171,7 +171,7 @@ div.desc {
 
 <div class="gallery">
   <a target="_blank" href="gallery/6.jpg"> <img src="gallery/6.jpg"> </a>
-  <div class="desc"> 2024 ISPOR x AMCP Trivia Night </div>
+  <div class="desc"> 2025 ISPOR x AMCP Trivia Night </div>
 </div>
 
 <div class="gallery">
@@ -181,27 +181,27 @@ div.desc {
 
 <div class="gallery">
   <a target="_blank" href="gallery/8.jpg"> <img src="gallery/8.jpg"> </a>
-  <div class="desc"> 2024 ISPOR x AMCP Trivia Night </div>
+  <div class="desc"> 2025 ISPOR </div>
 </div>
 
 <div class="gallery">
-  <a target="_blank" href="gallery/9.png"> <img src="gallery/9.png"> </a>
-  <div class="desc"> 2023 ISPOR Europe </div>
+  <a target="_blank" href="gallery/9.jpg"> <img src="gallery/9.jpg"> </a>
+  <div class="desc"> 2024 ISPOR </div>
 </div>
 
 <div class="gallery">
   <a target="_blank" href="gallery/10.jpg"> <img src="gallery/10.jpg"> </a>
-  <div class="desc"> 2024 ISPOR Alumni Luncheon </div>
+  <div class="desc"> 2023 ISPOR Europe </div>
 </div>
 
 <div class="gallery">
   <a target="_blank" href="gallery/11.jpg"> <img src="gallery/11.jpg"> </a>
-  <div class="desc"> 2024 ISPOR Alumni Luncheon</div>
+  <div class="desc"> 2025 ISPOR Alumni Luncheon </div>
 </div>
 
 <div class="gallery">
   <a target="_blank" href="gallery/12.jpg"> <img src="gallery/12.jpg"> </a>
-  <div class="desc"> 2024 ISPOR </div>
+  <div class="desc"> 2024 ISPOR Alumni Luncheon </div>
 </div>
 
 
