@@ -3,7 +3,7 @@
 ## 1. Local Setup
 - Clone the repository:  
   ```bash
-  git clone https://github.com/umb-ispor/UMB_ISPOR.git
+  git clone https://github.com/UMB-ISPOR/UMB_ISPOR.git
   cd UMB_ISPOR
   ```
 - Install R and RStudio if not already installed.  
