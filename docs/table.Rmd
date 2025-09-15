@@ -19,10 +19,15 @@ library(googlesheets4)
 
 # Prepare ISPOR Presentation list
 # Authenticate with Google (this will open a browser for the first time)
-gs4_auth()
+gs4_deauth()
 
 # Replace the URL with the link to your Google Sheet
-sheet_url <- "https://docs.google.com/spreadsheets/d/1zEE23AcJEGOqL6qvhd-17jQMSaH0IKhHYKXVdbjoAtI/edit?usp=sharing"
+sheet_url <- "https://docs.google.com/spreadsheets/d/1zEE23AcJEGOqL6qvhd-17jQMSaH0IKhHYKXVdbjoAtI/edit?gid=1024620023#gid=1024620023"
+
+#original web
+#gs4_auth() auth 
+#https://docs.google.com/spreadsheets/d/1zEE23AcJEGOqL6qvhd-17jQMSaH0IKhHYKXVdbjoAtI/edit?usp=sharing
+
 
 # Get the names of all sheets in the Google Sheet
 sheet_names <- sheet_names(sheet_url)
