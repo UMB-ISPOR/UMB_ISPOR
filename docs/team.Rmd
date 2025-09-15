@@ -21,7 +21,7 @@ library(dplyr)
 <table class="custom-table">
   <tr>
     <td class="col1">![](headshot/pre_2025.jpeg){width="100%"} </td>
-    <td class="col2"> **President** | Hyung-Seok (John) Kim </br> Hello, you can call me John! I'm a 2nd year PhD student in the pharmacoeconomics track broadly interested in modeling and value assessment, especially in the realm of Alzheimer's disease. I've lived in Seoul, Singapore, Indonesia, and the US and can say without a doubt, that Indonesian food reigns supreme. I love lifting weights, playing the violin, and have a healthy but not so healthy obsession with karaoke. It's an absolute pleasure connecting with other peers in HEOR. and I can't wait to deepen my and our chapter's relationships with all of you reading this! .
+    <td class="col2"> **President** | Hyung-Seok (John) Kim </br> Hello, I’m John! I’m a 3rd year PhD student in the pharmacoeconomics track and a pre-doctoral fellow at AstraZeneca. Before coming to UMB, I completed a MHS in HEOR at Johns Hopkins and a BS in Life Sciences at Yale-NUS College. I’ve lived in Seoul, Singapore, Indonesia, and the US and can say without a doubt, that Indonesian food reigns supreme. I love lifting weights, playing the violin, and have a healthy but not so healthy obsession with karaoke. It’s an absolute pleasure connecting with other peers in HEOR, and I can’t wait to deepen our chapter’s relationships with all of you reading this.
     </td>
     </tr>
   <tr>
