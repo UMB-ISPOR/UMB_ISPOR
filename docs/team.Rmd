@@ -16,7 +16,7 @@ library(dplyr)
 
 ```
 
-# 2024-2025 Executive Board
+# 2025-2026 Executive Board
 
 <table class="custom-table">
   <tr>
@@ -51,8 +51,7 @@ library(dplyr)
   <tr>
   <tr>
     <td class="col1"> ![](headshot/Alumni_2025.PNG){width="100%"} </td>
-    <td class="col2"> **Alumni and public relations chair** | Taraneh Mousavi </br> Taraneh Mousavi is a second-year PhD student in Pharmaceutical Health Services Research at the University of Maryland School of Pharmacy. She holds a Doctor of Pharmacy degree and has several years of experience as a hospital and community pharmacist, as well as in pharmacovigilance. Her research centers on Cardio-Kidney-Metabolic (CKM) syndrome, with a focus on evaluating the safety and effectiveness of emerging therapies using real-world evidence. She is also building expertise in health technology assessment (HTA) and multi-criteria decision analysis (MCDA) to integrate patient perspectives into value assessment.
-As Alumni and Public Relations Chair, Taraneh is dedicated to strengthening connections between students and alumni. She helps organize networking and mentorship opportunities, supports engagement initiatives in collaboration with fellow officers, and develops outreach strategies to enhance the visibility of UMB’s ISPOR Student Chapter within the HEOR community. Through this role, she hopes to empower members and contribute to advancing the chapter’s mission.
+    <td class="col2"> **Alumni and public relations chair** | Taraneh Mousavi </br> Taraneh Mousavi is a second-year PhD student in Pharmaceutical Health Services Research at the University of Maryland School of Pharmacy. She holds a Doctor of Pharmacy degree and has several years of experience as a hospital and community pharmacist, as well as in pharmacovigilance. Her research centers on Cardio-Kidney-Metabolic (CKM) syndrome, with a focus on evaluating the safety and effectiveness of emerging therapies using real-world evidence. She is also building expertise in health technology assessment (HTA) and multi-criteria decision analysis (MCDA) to integrate patient perspectives into value assessment.Outside of research, she loves walking in the rain, listening to Parisian and old pop music, playing piano, and never saying no to a good sip of espresso! 
     </td>
     </tr>
   <tr>

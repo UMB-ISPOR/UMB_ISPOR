@@ -1,7 +1,7 @@
-rmarkdown::render("index.Rmd", output_format = "html_document")
-rmarkdown::render("ISPOR.Rmd", output_format = "html_document")
-rmarkdown::render("team.Rmd", output_format = "html_document")
-rmarkdown::render("table.Rmd", output_format = "html_document")
-rmarkdown::render("gallery.Rmd", output_format = "html_document")
-rmarkdown::render("follow.Rmd", output_format = "html_document")
+rmarkdown::render("docs/index.Rmd", output_format = "html_document")
+rmarkdown::render("docs/ISPOR.Rmd", output_format = "html_document")
+rmarkdown::render("docs/team.Rmd", output_format = "html_document")
+rmarkdown::render("docs/table.Rmd", output_format = "html_document")
+rmarkdown::render("docs/gallery.Rmd", output_format = "html_document")
+rmarkdown::render("docs/follow.Rmd", output_format = "html_document")
 
